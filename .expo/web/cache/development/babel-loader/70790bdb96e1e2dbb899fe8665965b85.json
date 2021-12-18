@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var FETCH_SUCCESS_USER = 'FETCH_SUCCESS_USER';","map":{"version":3,"sources":["C:/Users/vahai/Documents/space/WEBDEV/redux/user/user.type.js"],"names":["FETCH_SUCCESS_USER"],"mappings":"AAAA,OAAO,IAAMA,kBAAkB,GAAG,oBAA3B","sourcesContent":["export const FETCH_SUCCESS_USER = 'FETCH_SUCCESS_USER';\r\n"]},"metadata":{},"sourceType":"module"}
